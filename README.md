@@ -15,7 +15,7 @@ HTML5, CSS3, JavaScript, GitHub, Git, NodeJS, Ajax и XHR, Webpack, ESLint, Babe
   1.[ Домашние работы](https://github.com/Natasha01013/bjs-2-homeworks) по основам JavaScript: функции, объекты, классы, исключения и замыкания, ассинхронность.<br>
   2.[ Домашние работы](https://github.com/Natasha01013/bhj-homeworks/tree/master) по взаимодействию JavaScript с браузером: DOM, HTML-формы, ассинхронные запросы, хранение состояния на клиенте.<br>
 
-  3.[ Дипломный проект](https://github.com/Natasha01013/bjs-diplom/tree/master) по основам JavaScript: сайт-биржа для крипто-стартапа.<br>
+  3.[ Дипломный проект](https://github.com/Natasha01013/bjs-diplom/tree/master) по основам JavaScript: сайт-биржа для крипто-стартапа (мой код в файлах homePage.js, loginPage.js в папке public.<br>
 
 
 ## Свидетельства Нетологии:<br>
