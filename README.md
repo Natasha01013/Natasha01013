@@ -4,7 +4,7 @@
 
 ## Мой стек: 
 
-HTML5, CSS3, JavaScript, GitHub, Git, NodeJS, Ajax и XHR, Webpack, ESLint, Babel, Unit-тестирование
+HTML5, CSS3, JavaScript, GitHub, Git, NodeJS, Ajax и XHR, Webpack, ESLint, Babel, Jest
 
 ## Мои работы:  
 + HTML, CSS:<br>
