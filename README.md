@@ -2,10 +2,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5uejdkb2ZhZXd4c3BtNnFlcGVodjQzbmRhenJ3ZmZ6dTNjeXRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/nataliydavydova/)">
+  <a href="https://www.linkedin.com/in/nataliydavydova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-telegram-URL](https://t.me/natasha01013)">
+  <a href="https://t.me/natasha01013">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
