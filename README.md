@@ -23,7 +23,7 @@
 ## Мои ключевые компетенции:
 
 Верстка сайтов по макетам: адаптивная, мобильная, кроссбраузерная верстка, работа с html-формами, css grid, flexbox.<br>
-JavaScript: работа с классами, функциями, объектами, циклами, асинхронными запросами, DOM, обработчики событий, запросы и ответы от сервера, изменением структуры HTML-документа.
+JavaScript: работа с классами, функциями, объектами, циклами, асинхронными запросами, DOM, обработчики событий, XHR, fetch, хранение состояния на клиенте (cookie, LocalStorage), изменением структуры HTML-документа.
 
 
 ## Языки и инструменты: 
@@ -38,6 +38,8 @@ JavaScript: работа с классами, функциями, объекта
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" **alt="babel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" **alt="eslint" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" **alt="jest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" **alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" **alt="react" width="40" height="40"/>
 </div>
 
 ## Мои работы:  
@@ -60,6 +62,14 @@ JavaScript: работа с классами, функциями, объекта
 ## О себе:
 Исполнительная, ответственная, внимательная, аккуратная, организованная, не конфликтная, умею работать в команде. Целеустремленная, довожу работу до конца. Умею учиться на ошибках. Всегда стараюсь оптимизировать работу. 
 Очень люблю учиться, легко- и быстрообучаема. Люблю проходить тестирования для оценки своей квалификации. Умею подстраиваться под разного рода изменения. Новые сложные кейсы - для меня новый опыт.
+
+Мои сильные стороны по тесту Gallup: 
+* Learner: любовь к учебе и быстрое освоение нового.  
+* Discipline: организованность, дисциплинированность, структурированность, любовь к порядку и четким процессам.  
+* Achiever: достижение целей, доводить дела до конца, ориентированность на результат.  
+* Positivity: позитивный настрой помогает выстраивать коммуникацию и вдохновлять других.  
+* Developer: нравится помогать людям расти, обучать, объяснять, видеть их прогресс. 
+
 
 ## Контакты:
 +7 (985) 299-72-26 <br> 
