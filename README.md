@@ -61,14 +61,14 @@ JavaScript: работа с классами, функциями, объекта
 3. [Свидетельство](https://disk.yandex.ru/d/RNvp0S-8sFcgww) Основы JavaScript в браузере.<br>
 
 ## О себе:
-Soft skills:  
+#### Soft skills:  
 * Ответственность, усидчивость и самодисциплина. 
 * Быстрая обучаемость и адаптивность. 
 * Умение работать с информацией и в команде. 
 * Любовь к системности и оптимизации. 
 
-Сильные стороны по Gallup: 
-Learner | Discipline | Achiever | Positivity | Developer 
+#### Сильные стороны по Gallup: <br>
+Learner | Discipline | Achiever | Positivity | Developer  
 
 
 ## Контакты:
