@@ -33,7 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
@@ -44,7 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" **alt="react" width="40" height="40"/>
 </div>
 
-## Мои работы:  
+## Мои учебные проекты:  
 + HTML, CSS:<br>
   1.[ Домашние работы](https://codepen.io/natasha01013) по верстке в codepen.<br>
   2.[ Дипломный проект:](https://github.com/Natasha01013/Mq-diplom) адаптивная верстка макета. HTML, CSS, адаптив, кроссбраузерность. Сверстан адаптивный макет по дизайну, применены современные практики верстки и семантика. <br>
@@ -55,6 +54,11 @@
 
   3.[ Дипломный проект](https://github.com/Natasha01013/bjs-diplom/tree/master) по основам JavaScript: биржа криптовалют. JavaScript, API, работа с DOM, LocalStorage. Реализована авторизация, избранное, взаимодействие с сервером, обмен валют, сохранение состояния (мой код в файлах homePage.js, loginPage.js в папке public).<br>
 
+  4. [ Итоговый дипломный проект по курсу](https://github.com/Natasha01013/ticket-booking-app): SPA на React для сервиса покупки билетов на ж/д, свёрстанное по макетам в Figma.<br>
+
+## Мои собственные проекты: 
+1. [Сайт с новостями по кадрам и зарплате для сотрудников разных компаний](https://github.com/Natasha01013/kadry-i-zarplata) на чистом JS, HTML, CSS. SPA-приложение с адаптивной версткой, разбитое на классы для удобства пользования и доработки в дальнейшем. Приложение обновляемое, поддерживаемое на постоянной основе.<br>
+[Ссылка за сайт](https://natasha01013.github.io/kadry-i-zarplata/).<br>
 
 ## Свидетельства Нетологии:<br>
 1. [Свидетельство](https://disk.yandex.ru/i/n171D-JVBVQE-g) адаптивная и мобильная верстка.<br> 
