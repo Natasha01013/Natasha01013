@@ -60,10 +60,8 @@
 1. [Сайт с новостями по кадрам и зарплате](https://github.com/Natasha01013/kadry-i-zarplata) для сотрудников разных компаний на чистом JS, HTML, CSS. SPA-приложение с адаптивной версткой, разбитое на классы для удобства пользования и доработки в дальнейшем. Приложение обновляемое, поддерживаемое на постоянной основе.<br>
 [Ссылка за сайт](https://natasha01013.github.io/kadry-i-zarplata/).<br>
 
-## Свидетельства Нетологии:<br>
-1. [Свидетельство](https://disk.yandex.ru/i/n171D-JVBVQE-g) адаптивная и мобильная верстка.<br> 
-2. [Свидетельство](https://disk.yandex.ru/d/4fh2kUfahkUsjg) Git.<br> 
-3. [Свидетельство](https://disk.yandex.ru/d/RNvp0S-8sFcgww) Основы JavaScript в браузере.<br>
+## Свидетельство:<br>
+[Свидетельство](https://disk.yandex.ru/i/pwI3SoFcq1EAng) фронтенд-разработчик.<br> 
 
 ## О себе:
 #### Soft skills:  
